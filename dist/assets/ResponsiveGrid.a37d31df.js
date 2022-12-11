@@ -1,0 +1,1 @@
+import{e as r,a1 as t}from"./index.0dd565a4.js";const i=e=>r(t,{w:"$full",gap:"$2",templateColumns:{"@initial":"1fr","@lg":"repeat(auto-fill, minmax(424px, 1fr))"},get children(){return e.children}});export{i as R};
